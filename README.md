@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 - HTML, CSS, PHP, JavaScript, TypeScript, Java, Kotlin, Python, SQL, Assembleur
 
 ### Frameworks
-- Laravel, NodeJS, VueJS, React, React Native, Angular, Tailwind, Bootstrap, Firebase, ExpressJS, NextJS, Django, J2EE
+- J2EE, Spring Boot, Angular, Laravel, NodeJS, VueJS, React, React Native, Tailwind, Bootstrap, Firebase, ExpressJS, NextJS, Django
 
 ### Mobile Development
 - Android, Flutter
