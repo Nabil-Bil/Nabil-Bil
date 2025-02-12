@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 ## 🌐 Links
 
 - **GitHub:** [Nabil-Bil](https://github.com/Nabil-Bil)
-- **LinkedIn:** [Nabil R](https://www.linkedin.com/in/nabil-r)
+- **LinkedIn:** [Nabil RADJAI](https://www.linkedin.com/in/nabil-radjai)
 
 ## 🎓 Education
 
